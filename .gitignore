@@ -1,1 +1,4 @@
-gpt_2/
+gpt2/
+_pycache_/
+checkpoints/
+trained_model/
